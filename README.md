@@ -1,5 +1,5 @@
 # website
 
-## learn about tags 
+## for the git and github trainning 
 
 * update
